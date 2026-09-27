@@ -1,0 +1,14 @@
+[Auto-generated transcript - Weekly Sync - no punctuation cleanup]
+
+sarah okay so i think we should just go with the blue header design everyone agree yeah lets go with that
+mike yeah works for me i can get the mockup updated by friday
+sarah great can you also send it to the client once its done
+mike yeah ill send it over friday afternoon
+tom what about the pricing page though did we decide on that
+sarah hmm not yet lets revisit that next week
+tom ok i can pull some competitor pricing examples before then if that helps
+sarah that would be great thanks tom
+mike oh also the api integration is still broken on staging someone needs to look at that
+sarah tom can you take a look at that today
+tom uh yeah i can check it out this afternoon
+sarah cool i think thats everything for today thanks all
